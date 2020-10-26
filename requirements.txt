@@ -1,1 +1,2 @@
 pytest==4.6
+duckduckgo2==0.242
